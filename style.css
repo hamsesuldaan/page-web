@@ -96,7 +96,7 @@ body {
     
     width: 300px;
     height: 290px;
-    grid-template-columns: repeat(0, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     opacity: var(--color-primary);
 }
 .container{
