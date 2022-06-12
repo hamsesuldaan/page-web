@@ -93,7 +93,7 @@ body {
 .newslist img {
 
     width: 360px;
-    height: 60px;
+    height: 360px;
     grid-template-columns: repeat(10, 1fr);
     opacity: var(--color-primary);
     
