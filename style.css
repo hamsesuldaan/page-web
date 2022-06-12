@@ -92,12 +92,10 @@ body {
 }
 .newslist img {
 
-    width: 360%;
-    height: 260px;
-    grid-template-columns: repeat(4, 1fr);
+    width: 360px;
+    height: 360px;
+    grid-template-columns: repeat(10, 1fr);
     opacity: var(--color-primary);
-    margin: 0px;
-    
     
     
 }
